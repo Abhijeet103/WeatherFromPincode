@@ -41,9 +41,10 @@ This project demonstrates an algorithm that fetches weather information based on
 
 ## Usage  
 - end point  : localhost:8080/weather
-- body  : {
-
-  "pincode" : "831013" ,
-    "date" : "2023-12-15"
+{
+  "pincode": "831013",
+  "date": "2023-12-15"
 }
+
+response : ![Screenshot 2024-10-21 201216](https://github.com/user-attachments/assets/8b27db21-8a64-4a70-a13e-78da19f211d7)
 
