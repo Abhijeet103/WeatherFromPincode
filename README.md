@@ -37,4 +37,13 @@ This project demonstrates an algorithm that fetches weather information based on
    cd demo
 
 ## Limitation  
-- with the current API i can only fetch data upto one year only , Exception when date is out of range is handled 
+- with the current API i can only fetch data upto one year only , Exception when date is out of range is handled
+
+## Usage  
+- end point  : localhost:8080/weather
+- body  : {
+
+  "pincode" : "831013" ,
+    "date" : "2023-12-15"
+}
+
